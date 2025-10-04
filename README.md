@@ -1,2 +1,5 @@
 # TP1_ARQ-Y-SO-2025-
 TP1 ARQ Y SO 2025
+Alumno: <Sebastian_Corrado>
+Division: <211>
+Turno: <Tarde>
