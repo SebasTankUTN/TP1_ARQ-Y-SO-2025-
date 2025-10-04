@@ -1,0 +1,987 @@
+whoiam
+whoami
+pwd
+ssh-keygen -t ed25519
+ls -l
+ls -la
+cd .ssh
+ls -l
+ls -la
+cat id_ed25519.pub
+pwd
+cd ..
+cd .ssh
+cd $home
+pwd
+man
+man man
+cd man
+cd -help
+clear
+cat home
+cat*txt
+cat*.txt
+ls -l
+cd -help
+ls -p
+clear
+mkdir clase4
+ls -l
+cd clase4
+pwd
+echo hola
+echo $home
+echo $HOME
+echo hola > archivo.txt
+ls -l
+cat archivo
+cat archivo.txt
+echo chau
+echo chau > archivo.txt
+cat archivo.txt
+echo buenas tardes >> archivo.txt
+ls -l
+cat archivo.txt
+cat > archivo1.txt
+cat archivo1.txt
+ls -l
+cat <<FIN > archivo3.txt
+linea
+linea2
+linea
+linea3
+linea4
+linea5
+FIN
+
+cat archivo3.txt
+ls -l
+cat archivo.txt archivo1.txt > archivo4.txt
+ls -l
+cat archivo4.txt
+mrdir documento
+mkdir documentos
+ls -l
+cd documentos
+cd .
+cd ..
+grep
+greo --help
+grep linea3 archivo4.txt
+grep linea5 archivo4.txt
+grep -i LINEA3 archivo4.txt
+grep -c linea3 archivo4.txt
+grep -n linea archivo4.txt
+grep -v linea archivo4.txt
+cat archivo4.txt
+grep -i -c linea3 archivo4.txt
+tree
+sudo apt install tree
+E
+snap install free
+snap apt install tree
+sudo snap install tree
+tree
+mkdir practica
+cd practica
+pwd
+cd ..
+ls -l
+cd practica
+ls -l
+touch practica1.txt
+ls -l
+cp practica1.txt practica2.txt
+ls -l
+rm practica1.txt
+ls -l
+mv practica2.txt > clase4
+mv practica2.txt clase4
+ls -l
+mv clase4 pratica2.txt
+ls -l
+practica2.txt /home/vagrant/clase4/
+ls -l
+mv practica2.txt /home/vagrant/clase4/
+cd ..
+ls - l
+ls-l
+ls -l
+cat practica
+cd practica
+ls -l
+mv practica2.txt /home/vagrant/clase4/
+mv pratica2.txt /home/vagrant/clase4/
+ls -l
+cd ..
+ls -l
+rmdir practica
+ls -l
+exit
+pwd
+cat vagrant
+ls
+whoami
+man
+man man
+cleat
+clear
+pwd
+cat *.txt
+cat> filename.txt
+ls
+cat filename.txt
+cat rv filename.txt
+rv filename.txt
+apropos rv
+apropos remove
+apropos mv
+rm filename.txt
+ls
+cat>Lineas
+cear
+clear
+exit
+clear
+pwd
+cat > filename.txt
+ls
+cat filename.txt
+cat filename>recibido.txt
+cat filename.txt > recibido.txt
+ls
+cat recibido.txt
+ls
+pwd
+cat filename.txt>> recibido1.txt
+cat recibido1.txt
+rm recibido1.txt
+ls
+cat filename.txt recibido.txt > destinario.txt
+ls
+cat destinario.txt
+rm destinario.txt 
+ls
+touch documentos
+ls
+rm documentos
+mkdir documentos
+ls
+cd documentos
+psw
+pwd
+ls
+psw
+pwd
+touch archivo1.txt
+ls
+pico archivo1.txt
+ls
+cd documentos
+ls
+cat archivo1.txt
+psw
+pwd
+cat archivo1.txt.save
+rm archivo1.txt
+mv archivo1.txt.save
+mv archivo1.txt.save archivo1.txt
+ls
+cat archivo1.txt
+pwd
+cat>archivo2.txt
+cat archivo1.txt archivo2.txt>>archivo3.txt
+ls
+cat archivo3.txt
+grep -i linea1 archivo3
+grep -i linea1 archivo3.txt
+grep -c linea1 archivo1.txt archivo3.txt
+grep -c linea2 archivo1.txt archivo3.txt
+grep -c Linea3 archivo1.txt archivo3.txt
+grep -1 -c linea1 archivo1.txt archivo3.txt
+grep -v Linea3 archivo1.txt archivo3.txt
+grep Linea1 archivo1.txt | grep Linea3 archivo3.txt
+grep Linea2 archivo1.txt | grep Linea6 archivo2.txt
+grep -i linea4 ./*
+cd .
+cd *
+cd ..
+pwd
+cd documentos
+ls
+cd **
+cd ..
+mkdir doc
+cd doc
+cat>archivo1.txt
+cat
+ls
+cat > archivo2.txt
+cat archivo1.txt
+cat archivo2.txt
+ls
+grep -i dias archivo1.txt
+grep -i dias archivo1.txt | grep -n dias archivo1.txt
+cat > archivo1.txt
+ls
+cat archivo1.txt
+grep -i dias archivo1.txt
+grep dias archivo1.txt | grep solo archivo1.txt
+grep -c dias archivo1.txt
+grep -i dias archivo1.txt | grep -c dias archivo1.txt
+grep dias archivo1.txt | grep solo archivo1.txt 
+tree
+less
+grep -n dias archivo1.txt
+cat archivo1.txt
+grep -c dias archivo1.txt
+grep martes archivo1.txt | grep martes archivo2.txt
+cat archivo1.txt
+grep martes archivo1.txt | grep martes archivo2.txt
+cat archivo2.txt
+grep martes archivo1.txt | grep Miercoles archivo2.txt
+grep martes archivo1.txt | gerp Martes archivo2.txt
+grep martes archivo1.txt | grep Martes archivo2
+grep martes archivo1.txt | grep Martes archivo2.txt
+grep -i Martes
+cd ..
+pwd
+mkdir clase4
+mkdir clase5
+cd clase5
+pwd
+mkdir practica
+ls
+cd practica
+ls
+pwd
+touch practica1.txt
+ls
+cp practicas1.txt practicas2.txt
+ls
+cp practica1.txt practica2.txt
+ls
+rm practica1.txt
+ls
+mv practica2.txt clase5
+ls
+mv clase5 practicas2.txt
+ls
+pwd
+sesasassdeexitexclear
+clear
+exit
+ls
+cd clase5
+pwd
+ls
+cd practica
+ls
+mv practica2.txt/home/vagrant/clase5
+mv --help
+mv practicas2.txt -t clase5
+mv practicas2.txt -t ls
+ls
+mv practicas2.txt -t /home/vagrant/clase5
+ls
+cd
+pwd
+cd clase5
+ls
+cat practicas2.txt
+rmdir practica
+ls
+tree
+rm practicas2.txt
+ls
+mkdir nuevo_dir_1 nuevo_dir_2 nuevo_dir_3
+tree
+mkdir -p dir1/dir2/dir3/dir/4
+tree
+mkdir -p {dir1,dir2}/subdir{1,2,3} mk -p {dir1,dir2}/{subdir1,subdir2,subdir3}
+tree
+rmdir dir2 dir3 dir4
+rmdir dir1
+tree
+exit
+ls
+cd clase5
+ls
+rmdir clase5
+ls
+rm dir1
+rmdir clase5
+ls
+rm -r clase5
+cd documentos
+pwd
+cd clase4
+cd ..
+cd documentos
+ls
+rm -r clase5
+cd ..
+rm -r clase5
+ls
+last
+id
+whoami
+w
+mkdir clase5
+ls
+cd clase5
+pwd
+cat> facturas pedidos
+touch facturas
+touch pedidos
+ls
+tree
+mkdir -p {clientes}
+ls
+tree
+rm clientes
+rm {clientes}
+cd..
+cd ..
+ls
+cd clase5
+ls
+rm -r clientes
+rm -r {clientes}
+ls
+mkdir -p clientes/facturas,pedidos
+ls
+tree
+rm -r clientes
+ls
+tree
+mkdir clientes
+tree
+rm -r clientes
+ls
+mkdir -p clientes/facturas, pedidos
+ls
+tree
+rm -r clientes
+ls
+clear
+cd ..
+pwd
+whoami
+ls -l
+cd clase4
+ls -l
+cat documentos
+cd documentos
+ls 
+ls -l
+cat documentos
+cd ..
+mk -p {dir,dir2}/{subdir1,subdir2,subdir3}
+mkdir -p {dir1,dir2}/{subdir1,subdir2,subdir3}
+ls
+tree
+rm - dir1 dir2
+rm -r dir1 dir2
+ls
+tree
+cd..
+cd ..
+cd clase5
+pwd
+ls
+rm facturas
+rm pedidos
+ls
+tree
+mkdir facturas pedidos
+ls
+tree
+ls -l
+mkdir -p clientes/{facturas,clientes}
+ls
+tree
+mkdir -p {clientes,proveedores}/{facturas,clientes}
+ls
+tree
+rm facturas 
+rm -r facturas pedidos
+ls
+tree
+ls -l
+rm -r proveedores clientes
+mkdir -p {clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p {contactos}/{clientes,proveedores}/{facturas,pedidos}
+tree
+mv {contactos} contactos
+tree
+mkdir Corrado_1
+TREE
+tree
+mkdir -p corrado_1/{mama/hijo{1..3},papa/{hijo1..3},ahijado}}
+tree
+rm -r corrado_!
+rm -r corrado_1
+mkdir -p corrado
+rm -r corrado
+mkdir -p corrado_1/{mama/{hijo1,hijo2,hijo3},papa/{hijo1,hijo2,hijo3,ahijado}}
+tree
+rm Corrado_!
+rm Corrado_1
+rm -r Corrado_1
+ls
+tree
+mkdir -p Corrado_1/{facturas,pedidos}
+tree
+rm -r Corrado_1
+tree
+clear
+whoami
+pwd
+last
+w
+id
+who
+w
+last
+cat passwd
+cat /etc/passwd
+grep -i vagrant
+grep -i vagrant /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo grep -i vagrant /etc/shadow
+cat /etc/group
+sudo grep -i vagrant /etc/group
+sudo su 
+groupadd Alumnos
+sudo su
+ls
+groupadd Alumnos
+grep -i Alumnos /etc/group
+sudo useradd -m -s /bin/bash -c"Usuario Sebas" -G Alumnos Sebas
+grep -i Alumnos /etc/group
+grep -i Sebas /etc/group
+cd clase4
+grep -i Sebas /etc/group
+sudo useradd -m -s /bin/bash/ -c"Usuario Sebastian" -G Alumnos Sebastian
+grep -i sebas /etc/group
+sudo useradd -m -s /bin/bash -c'Usuario Sebas' -G Alumnos Sebas
+sudo useradd -m -s /bin/bash -c'Usuario Seba' -G Alumnos Seba
+grep -i seba /etc/group
+sudo useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+grep -i pepe /etc/group
+sudo userdel Sebastian Seba Sebas
+grep -i Alumnos /etc/group
+sudo userdel Sebas
+sudo userdel Sebastian
+sudo userdel Seba
+sudo userdel pepe
+sudo useradd -m -s /bin/bash -c"Alumnos Sebas" -G Alumnos Sebas
+grep -i Sebas /etc/group
+useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+sudo useradd -m -s /bin/bash -c "Alumno pepe" -G Alumnos pepe
+save
+sudo useradd -m -s /bin/bash -c "Alumno Corrado" -G Alumnos Corrado
+grep -i Corrado /etc/group
+sudo userdel pepe
+sudo userdel Sebas
+pwd
+grep -i Alumnos /etc/group
+grep -i /bin/bash 
+ls -l
+ls -l /home
+sudo userdel seba /home
+sudo r seba /home
+sudo rm Seba /home
+sudo rm Seba /etc/home
+su - Seba
+su - Corrado
+grep - i Alumnos /etc/group
+cd clase4
+cd ..
+ls -l
+cd clase5
+grep -i Alumnos /etc/group
+sudo passwd Corrado
+su - Corrado
+grep -i Corrado /etc/group
+su - Corrado
+ls -l /home
+id pepe
+id
+su - Corrado
+cd ..
+cat /var
+cat /usr
+cd clase5
+ls -l
+ls
+pwd
+su - corrado
+su - Corrado
+pwd
+ls -l /home
+usermod -s /bin/bash [Corrado]
+grep -i Corrado /etc/group
+sudo grep Corrado /etc/passwd
+sudo usermod -aG sudo [Corrado]
+sudo su
+sudo usermod -aG sudo [Corrado]
+sudo usermod -aG sudo [corrado]
+su -Corrado
+su - Corrado
+sudo userdel group
+sudo usermod - aG sudo [Corrado]
+sudo userdel group
+sudo rm group
+sudo rm -r group
+sudo rm group
+sudo rm -r group
+ls -l home
+cd clase5
+ls -l home
+sudo ls -l home
+cd ..
+pwd
+su - Corrado
+ls -l /home
+cd corrado
+sudo rm userdel Seba
+sudo usermod -aG sudo [Corrado]
+cd clase5
+sudo usermod -aG sudo [Corrado]
+cd ..
+pwd
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+ls -l
+ssh-keygen -t ed25519
+cat #HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+mkdir repogit
+cd repogit
+ls
+rm repogit
+sudo rm repogit
+cd ..
+sudo rm repogit
+rmdir repogit
+sudo rmdir -r repogit
+rmdir --help
+rmdir -p repogit
+rm -r repogit
+cd repogit
+ls 
+cat /etc/os-release
+exit
+mkdir repogit
+pwd
+cd ..
+mkdir repogit
+sudo mkdir repogit
+ls
+cd repogit
+pwd
+ls -l
+ls
+git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+pwd
+ls -id
+sudo git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+sudo git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+ls -id
+ls -ld
+sudo chown -R vagrant:vagrant /home/repogit
+chmod u+rwx /home/repogit
+git clone git@github.com:SebasTankUTN/TP_AySO_Corrado_Sebastian.git
+ls
+cd TP_AySO_Corrado_Sebastian/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep i- home_url /etc/0s-release > datos_url.txt
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release>datos_url.txt
+ls
+ls -l
+whoami
+echo "usuario =$(whoami)">datos_usuario.txt
+git add
+git add.
+git add .
+git config --global user.email "sebastianutn2002@gmail.com"
+git config --global user.name "Sebastian"
+git commit -m "ADD: agregado 1er sobre datos datos_usuarios.txt"
+git status
+ls
+git status
+git push
+exit
+cd repogit
+ls
+cd TP_AySO_Corrado_Sebastian/
+ls
+ls -l
+pwd
+grep -i HOME_URL /etc/os-release
+ls -l
+ls
+pwd
+cd
+cd home
+cd ..
+ls
+repogit
+cd repogit
+pwd
+ls
+cd TP_AySO_Corrado_Sebastian/
+LS
+ls
+ls -l
+grep tail -n1
+tail -n1
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+cat datos_usuario.txt
+"feat:Añadiendo informacion de CPU"
+git commit "feat: Añadiendo informacion de CPU"
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+ls
+cat datos_usuario.txt
+cat datos_usuarios.txt
+rm -r datos_usuarios.txt
+ls
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuario.txt
+ls
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+cat
+ls
+cat datos_usuario.txt
+cat <<EOF>>README.md
+Alumno: <Sebastian Corrado>
+Division: <211>
+Turno: <Tarde>
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+ls
+mkdir -p {materia1,materia2}/uni{1..3}
+ls
+tree
+pwd
+vagrant exit
+ls
+pwd
+cd ..
+ls
+cd vagrant
+ls
+pwd
+clear
+ls -l
+cd repogit
+ls
+ls -l
+cd ..
+ls -l /home
+pwd
+cd ..
+ls -l
+cd pepe
+cd Corrado
+cd Seba
+cd Sebas
+cd Sebastian
+cd vagrant
+ls -l
+cd ..
+ls -l
+cd ubuntu
+cd Corrado
+cd repogit
+ls -l
+ls
+cd ..
+ls -l
+pwd
+cd home
+cd vagrant
+ls -l /home/pepe
+su - pepe
+ls -l home
+ls -l /home
+su - Corrado
+pwd
+chown vagrant:vagrant /home/Corrado/texto_Alumno.txt
+sudo chown vagrant:vagrnt /home/Corrado/texto_Alumno.txt
+sudo ls -l/home/Corrado
+sudo ls -l /home/Corrado
+sudo chown vagrant:vagrant /home/pepe/texto_Alumno.txt
+sudo chown vagrant:vagrant /home/Corrado/texto_Alumno.txt
+sudo ls -l /home/Corrado
+pwd
+ls -l
+mkdir clase6 
+ls -l
+cd clase5
+ls -l
+cd ..
+cd clase4
+ls -l
+cd ..
+ls -l /home/vagrant/documentos
+cd doc
+ls -l
+cd ..
+cd clase6
+touch practica1.txt
+touch practica2.txt
+ls -l
+ls
+chmod 600 practica1.txt
+ls -l
+chmod 444 practica2.txt
+ls -l
+sudo echo 'nuevalinea' >>practica2.txt
+chmod 644 practica2.txt
+ls -l
+echo 'nueva_linea' >> practica2.txt
+ls -l
+cat practica2.txt 
+cd ..
+chmod -R 777 clase6/
+cd clase6
+ls -l
+cd ..
+ls -l
+cd clase6
+ls
+cd ..
+chmod -R 775 clase6/
+ls -l
+chmod -r 666 clase6/
+chmod -R 666 clase6/
+pwd
+sudo chmod -R 666 clase6/
+ls -l
+cd clase6
+sudo cd clase6
+pwd
+ls -l
+sudo chmod -r 755 clase6/
+chmod -R 755 clase6/
+ls -l
+cd clase6
+ls -l
+chmod -r 555 clase6/
+chmod -R 555 clase6/
+cd ..
+chmod -R 555 clase6/
+ls -
+ls -l
+cd clase6
+ls -
+ls -l
+cd ..
+chmod -r 666 clase6
+chmod -R 755 clase6
+ls -l
+chmod -R 666 clase6
+sudo chmod -R 666 clase6
+ls -l
+chmod -R 755 clase6
+ls -l
+cd clase6
+ls -l
+cd ..
+chmod -R 554 clase6/
+ls -l /home/vagrant/clase6
+chmod -R 775 clase6
+ls -l
+cd clase6
+ls -l
+cd ..
+chmod -R 755 clase6/
+cd clase6
+ls -lo
+cd ..
+chmod -R 751 clase6/
+cd clase6
+ls -l
+cat practica1.txt
+cat practica2.txt
+cd ..
+mkddir clase6
+mkdri clase7
+mkdir clase7
+ls -l
+cd clase7
+pwd
+ls
+ls -l
+pwd
+echo pwd
+echo pwd > script1
+ls -l
+cat script1
+bash script1
+echo whoami >>script1
+cat script1 
+bash script1 
+vim scrip2.sh
+cat script2.sh
+vim script2.sh
+cat script2.sh
+cat scrip2.sh
+ls -l
+rm -r scrip2.sh
+ls -l
+cat script2.sh
+./script2.sh
+ls -l
+chmod -R 764 script2.sh
+ls -l
+./script2.sh
+vim script3.sh
+./script3.sh 
+chmod -R 764 script3.sh
+./script3.sh
+ls -l
+cat script3.sh
+ls -l
+cd dir1
+ls -l
+cd ..
+exit
+pwd
+ls -l
+rm -r repogit
+ls -l
+ls -l /home/vagrant/repogit
+rm -r repogit
+git rm -r repogit
+cd repogit
+ls
+git rm -r TP_AySO_Corrado_Sebastian
+git rm -r TP_AySO_Corrado_Sebastian/
+git commit -m "chore: eliminar directorio innecesario"
+git push origin main
+cd ..
+[200~rm -rf ~/repogit
+~rm -rf ~/repogit
+rm -r repogit
+rm -rf repogit/*
+ls 
+ls  -l
+cd repogit
+ls -l
+ls 
+git clone git@github.com:SebasTankUTN/TP1_ARQ-Y-SO-2025-.git
+ls
+cd TP1_ARQ-Y-SO-2025-/
+pwd
+cat/etc/0s-release
+cat/etc/os-release
+cat /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release
+grep -i home_url /etc/os-release >datos_url.txt
+ls
+cat datos_url.txt
+whoami
+echo "Usuario = $(whoami) >datos_usuario.txt
+
+'
+"
+ls
+ls -l
+echo "Usuario =$(whoami)">datos_usuario.txt
+ls
+cat datos_usuario.txt
+gti add.
+git add
+gti add .
+git add .
+git config --global.user.email "sebastianutn2002@gmail.com"
+git config --global user.email "sebastianutn2002@gmail.com"
+git config --global user.name "SebasTankUTN"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+"
+ls -l
+git status
+tree
+git push
+tree
+grep "model_name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+cat datos_usuario.txt
+ls -l
+git commit “feat: Añadiendo información de CPU”
+cat datos_usuarios.txt
+ls -l
+cat datos_usuario.txt
+cat datos_usuarios.txt
+cd datos_usuarios.txt
+cat datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+cat datos_usuarios.txt
+git commit “feat: Añadiendo información de CPU”
+git commit -m “feat: Añadiendo información de CPU”
+git status
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m 'feat: Añadiendo información de CPU'
+git push
+cat <<EOF>> README.md
+Alumno: <Sebastian_Corrado>
+Division: <211>
+Turno: <Tarde>
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m 'ADD:Añadiendo Readme y datos de usuario'
+git push
+mkdir -p {material,material2}/{uni1,uni2,uni3}
+tree
+git add .
+git commit -m 'feat: Agregando los directorios del punto 7'
+vim script_dir.sh
+ls -l
+chmod 755 script_dir.sh
+ls -l
+./script_dir.sh
+ls -l
+tree
+cat script_dir.sh
+vim script_dir.sh
+./script_dir.sh
+vim script_dir.sh
+git add .
+git commit -m 'ADD:Añadiendo script'
+git push
+history -a
+cp~/.bash_history ./Historial_comandos_Corrado.txt
+history -A >> $HOME/.bash_history
+history -a >> $HOME/.bash_history
+cp~/.bash_history ./Historial_comandos_Corrado.txt
+ls -l
+ls
+history -a
